@@ -1808,6 +1808,7 @@ header .menu-icon span:last-child {
 }
 #faq .accordion .accordion-item {
   background-color: transparent;
+  border: 0;
 }
 #faq .accordion .accordion-item .accordion-header {
   padding: 20px 24px;
